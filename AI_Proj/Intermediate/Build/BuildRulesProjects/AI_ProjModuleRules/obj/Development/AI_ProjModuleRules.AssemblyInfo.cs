@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI_ProjModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce9c385620f40f81f0e69a4c80fd73368a74dc19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+056e3fd98b12cde17aa7af8b0f9038c7ebf5f643")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI_ProjModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI_ProjModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
