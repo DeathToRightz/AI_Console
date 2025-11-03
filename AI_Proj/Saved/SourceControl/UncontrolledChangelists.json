@@ -8,7 +8,14 @@
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/YF/5BVSE8AW6HIKMNDWXJTVND.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/LS/0VT0K1ALINL0AKXT7VCSAB.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/BP_Enemy.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/EnemyAI.uasset"
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/EnemyAI.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BB_EnemyAI.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BTT_RandomPosition.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BTT_ChasePlayer.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BT_EnemyAI.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyAI.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyController.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/SW/K5HFG2FNSNSP2ZMO93W1GF.uasset"
 			]
 		}
 	]
