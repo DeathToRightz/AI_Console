@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lmcordova1\\documents\\github\\ai_console\\ai_proj\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ai_proj\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lmcordova1\\documents\\github\\ai_console\\ai_proj\\intermediate\\build\\win64\\x64\\ai_projeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lmcordova1\\documents\\github\\ai_console\\ai_proj\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ai_proj\\definitions.ai_proj.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

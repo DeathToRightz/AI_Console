@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AI_Proj",
+			"Path": "..\\Source\\AI_Proj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AI_ProjEditor",
+			"Path": "..\\Source\\AI_ProjEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
