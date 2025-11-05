@@ -5511,3 +5511,409 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.05-20.54.23:540][919]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
 [2025.11.05-20.54.23:548][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
 [2025.11.05-20.54.23:582][920]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.11.05-20.55.27:344][547]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-20.55.27:345][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-20.55.27:479][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-20.55.35:043][ 97]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-20.55.35:043][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-20.55.35:110][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.11.05-20.55.35:524][122]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-20.55.35:524][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-20.55.35:588][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.05-20.55.37:456][259]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-20.55.37:456][259]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-20.55.37:456][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-20.55.37:527][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.05-20.56.34:077][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.11.05-20.56.37:596][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.05-20.57.11:755][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.05-20.57.44:558][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.05-20.57.45:058][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-20.57.45:117][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_C++/BP_Enemy] ([2] browsable assets)...
+[2025.11.05-20.57.45:123][462]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_C++/BP_Enemy.BP_Enemy]
+[2025.11.05-20.57.45:123][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_C++/BP_Enemy]
+[2025.11.05-20.57.45:123][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_C++/BP_Enemy" FILE="../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset" SILENT=true
+[2025.11.05-20.57.45:141][462]LogSavePackage: Moving output files for package: /Game/AI_C++/BP_Enemy
+[2025.11.05-20.57.45:142][462]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_EnemyA74C5CEC4A09182841AAA183BD0BE19B.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset'
+[2025.11.05-20.57.45:156][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.740 ms (total: 7.62 sec)
+[2025.11.05-20.57.45:240][462]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-20.57.45:240][462]LogContentValidation: Enabled validators:
+[2025.11.05-20.57.45:240][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-20.57.45:240][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-20.57.45:240][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-20.57.45:240][462]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-20.57.45:240][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-20.57.45:240][462]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-20.57.45:240][462]AssetCheck: /Game/AI_C++/BP_Enemy Validating asset
+[2025.11.05-20.59.09:099][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6649.690918
+[2025.11.05-20.59.09:174][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-20.59.09:174][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6649.755371, Update Interval: 321.629089
+[2025.11.05-20.59.24:382][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.05-20.59.24:404][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HM/44BILMAQE6MPU4TDFACOMG_Auto7
+[2025.11.05-20.59.24:404][894]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/44BILMAQE6MPU4TDFACOMG_Auto7C2B57EDC40F222C20AAEBC9E2B58A79D.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HM/44BILMAQE6MPU4TDFACOMG_Auto7.uasset'
+[2025.11.05-20.59.24:405][894]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.056
+[2025.11.05-20.59.24:405][894]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.11.05-20.59.24:406][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.05-20.59.24:412][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.05-20.59.24:412][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.05-20.59.24:431][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2025.11.05-20.59.24:431][894]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_ThirdPersonCharacter_Auto7876855BC407CFCAC03129BA396F774EC.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2025.11.05-20.59.24:432][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_EnemyCharacter] ([2] browsable assets)...
+[2025.11.05-20.59.24:439][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_EnemyCharacter.BP_EnemyCharacter]
+[2025.11.05-20.59.24:439][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_EnemyCharacter]
+[2025.11.05-20.59.24:455][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_EnemyCharacter_Auto7
+[2025.11.05-20.59.24:455][894]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_EnemyCharacter_Auto78DE947024033AFB24F8A90AFE70CCF00.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/Autosaves/Game/AI/BP_EnemyCharacter_Auto7.uasset'
+[2025.11.05-20.59.24:458][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_C++/BP_Enemy] ([2] browsable assets)...
+[2025.11.05-20.59.24:463][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_C++/BP_Enemy.BP_Enemy]
+[2025.11.05-20.59.24:463][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_C++/BP_Enemy]
+[2025.11.05-20.59.24:481][894]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI_C++/BP_Enemy_Auto7
+[2025.11.05-20.59.24:481][894]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_Enemy_Auto7CDBB7615498C3E09D5F06AA9ED2673A4.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/Autosaves/Game/AI_C++/BP_Enemy_Auto7.uasset'
+[2025.11.05-20.59.24:482][894]LogFileHelpers: Auto-saving content packages took 0.077
+[2025.11.05-20.59.36:984][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.05-20.59.59:287][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.11.05-21.00.03:981][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.05-21.00.27:718][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.11.05-21.00.50:908][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.05-21.01.03:276][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.05-21.01.21:390][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.05-21.01.29:317][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.05-21.01.30:099][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-21.01.30:160][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_C++/BP_Enemy] ([2] browsable assets)...
+[2025.11.05-21.01.30:167][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_C++/BP_Enemy.BP_Enemy]
+[2025.11.05-21.01.30:167][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_C++/BP_Enemy]
+[2025.11.05-21.01.30:167][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_C++/BP_Enemy" FILE="../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset" SILENT=true
+[2025.11.05-21.01.30:186][662]LogSavePackage: Moving output files for package: /Game/AI_C++/BP_Enemy
+[2025.11.05-21.01.30:187][662]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_Enemy5EF3EFF342AA0D22685B05B755DDD521.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset'
+[2025.11.05-21.01.30:200][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.421 ms (total: 7.72 sec)
+[2025.11.05-21.01.30:261][662]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-21.01.30:261][662]LogContentValidation: Enabled validators:
+[2025.11.05-21.01.30:261][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-21.01.30:261][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-21.01.30:261][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-21.01.30:261][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-21.01.30:261][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-21.01.30:261][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-21.01.30:261][662]AssetCheck: /Game/AI_C++/BP_Enemy Validating asset
+[2025.11.05-21.01.50:166][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.05-21.01.50:603][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-21.01.50:658][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_C++/BP_Enemy] ([2] browsable assets)...
+[2025.11.05-21.01.50:664][ 53]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_C++/BP_Enemy.BP_Enemy]
+[2025.11.05-21.01.50:664][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_C++/BP_Enemy]
+[2025.11.05-21.01.50:664][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_C++/BP_Enemy" FILE="../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset" SILENT=true
+[2025.11.05-21.01.50:685][ 53]LogSavePackage: Moving output files for package: /Game/AI_C++/BP_Enemy
+[2025.11.05-21.01.50:686][ 53]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_Enemy6B603ECE447DDF1294BAE1B412D5A92E.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset'
+[2025.11.05-21.01.50:698][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.578 ms (total: 7.81 sec)
+[2025.11.05-21.01.50:741][ 53]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-21.01.50:741][ 53]LogContentValidation: Enabled validators:
+[2025.11.05-21.01.50:741][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-21.01.50:742][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-21.01.50:742][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-21.01.50:742][ 53]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-21.01.50:742][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-21.01.50:742][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-21.01.50:742][ 53]AssetCheck: /Game/AI_C++/BP_Enemy Validating asset
+[2025.11.05-21.01.52:404][167]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-21.01.52:411][167]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.05-21.01.52:411][167]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.05-21.01.52:411][167]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 915 us (total: 31.818 ms)
+[2025.11.05-21.01.52:411][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-21.01.52:434][167]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.05-21.01.52:442][167]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.05-21.01.52:443][167]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.731 ms (total: 78.609 ms)
+[2025.11.05-21.01.52:443][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009905s)
+[2025.11.05-21.01.52:443][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.009947s)
+[2025.11.05-21.01.52:476][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.05-21.01.52:479][167]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.05-21.01.52:481][167]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.05-21.01.52:481][167]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.05-21.01.52:481][167]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.05-21.01.52:481][167]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.05-21.01.52:483][167]LogWorldPartition: Display: WorldPartition initialize took 1.914 ms (total: 1.06 sec)
+[2025.11.05-21.01.52:483][167]LogPlayLevel: PIE: World Init took: (0.003814s)
+[2025.11.05-21.01.52:484][167]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-21.01.52:484][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-21.01.52:484][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-21.01.52:484][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-21.01.52:484][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-21.01.52:484][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-21.01.52:487][167]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-21.01.52:519][167]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Dell AC511 USB SoundBar)
+[2025.11.05-21.01.52:519][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-21.01.52:519][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-21.01.52:519][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-21.01.52:520][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.11.05-21.01.52:520][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.11.05-21.01.52:522][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.11.05-21.01.52:522][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.11.05-21.01.52:522][167]LogInit: FAudioDevice initialized with ID 42.
+[2025.11.05-21.01.52:522][167]LogAudio: Display: Audio Device (ID: 42) registered with world 'Lvl_ThirdPerson'.
+[2025.11.05-21.01.52:522][167]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.11.05-21.01.52:526][167]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.05-21.01.52:532][167]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.05-16.01.52
+[2025.11.05-21.01.52:533][167]LogWorld: Bringing up level for play took: 0.005956
+[2025.11.05-21.01.52:535][167]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.11.05-21.01.52:541][167]PIE: Server logged in
+[2025.11.05-21.01.52:543][167]PIE: Play in editor total start time 0.132 seconds.
+[2025.11.05-21.01.54:772][320]LogTemp: Warning: Completed!
+[2025.11.05-21.01.55:600][380]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.55:627][382]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.55:641][383]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.55:655][384]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.55:669][385]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.55:684][386]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.55:697][387]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:630][528]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:645][529]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:659][530]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:674][531]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:689][532]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:704][533]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:718][534]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:733][535]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:747][536]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:761][537]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:776][538]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:790][539]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:809][540]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:823][541]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:838][542]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:852][543]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:866][544]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:881][545]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:896][546]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:910][547]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:924][548]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:938][549]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:953][550]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:966][551]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:981][552]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.57:993][553]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:008][554]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:023][555]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:037][556]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:051][557]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:066][558]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:081][559]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:095][560]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:109][561]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:123][562]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:137][563]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:155][564]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:170][565]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:183][566]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:197][567]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:210][568]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:223][569]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:237][570]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:251][571]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:264][572]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:278][573]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:291][574]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:305][575]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:317][576]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:331][577]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:345][578]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:358][579]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:371][580]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:385][581]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:398][582]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:413][583]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:425][584]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:439][585]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:453][586]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:467][587]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:481][588]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:494][589]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:506][590]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:521][591]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:534][592]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:548][593]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:561][594]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:575][595]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:589][596]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:603][597]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:617][598]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:630][599]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:643][600]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:656][601]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:670][602]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:682][603]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:696][604]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:710][605]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:723][606]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:737][607]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:750][608]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:764][609]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:778][610]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:791][611]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:806][612]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:821][613]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:835][614]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:849][615]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.58:863][616]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.01.59:645][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-21.01.59:645][671]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.05-21.01.59:645][671]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.05-21.01.59:647][671]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-21.01.59:649][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.01.59:651][671]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.05-21.01.59:656][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-21.01.59:669][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.01.59:706][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-21.01.59:706][671]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.11.05-21.01.59:706][671]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2025.11.05-21.01.59:708][671]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2025.11.05-21.01.59:716][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.05-21.01.59:751][672]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.11.05-21.02.19:265][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.05-21.02.19:786][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-21.02.19:846][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI_C++/BP_Enemy] ([2] browsable assets)...
+[2025.11.05-21.02.19:852][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI_C++/BP_Enemy.BP_Enemy]
+[2025.11.05-21.02.19:852][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_C++/BP_Enemy]
+[2025.11.05-21.02.19:852][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_C++/BP_Enemy" FILE="../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset" SILENT=true
+[2025.11.05-21.02.19:875][981]LogSavePackage: Moving output files for package: /Game/AI_C++/BP_Enemy
+[2025.11.05-21.02.19:876][981]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_Enemy093D0F224F6A7B7D18B1AE924E1CDE4C.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset'
+[2025.11.05-21.02.19:890][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.475 ms (total: 7.92 sec)
+[2025.11.05-21.02.19:961][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-21.02.19:961][981]LogContentValidation: Enabled validators:
+[2025.11.05-21.02.19:961][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-21.02.19:961][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-21.02.19:961][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-21.02.19:961][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-21.02.19:961][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-21.02.19:961][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-21.02.19:961][981]AssetCheck: /Game/AI_C++/BP_Enemy Validating asset
+[2025.11.05-21.02.23:425][218]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-21.02.23:432][218]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.05-21.02.23:432][218]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.05-21.02.23:433][218]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 836 us (total: 32.654 ms)
+[2025.11.05-21.02.23:433][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-21.02.23:453][218]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.05-21.02.23:461][218]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.05-21.02.23:463][218]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.676 ms (total: 80.285 ms)
+[2025.11.05-21.02.23:463][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009708s)
+[2025.11.05-21.02.23:463][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.009751s)
+[2025.11.05-21.02.23:496][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.05-21.02.23:499][218]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.05-21.02.23:501][218]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.05-21.02.23:501][218]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.05-21.02.23:501][218]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.05-21.02.23:501][218]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.05-21.02.23:504][218]LogWorldPartition: Display: WorldPartition initialize took 1.972 ms (total: 1.06 sec)
+[2025.11.05-21.02.23:504][218]LogPlayLevel: PIE: World Init took: (0.003897s)
+[2025.11.05-21.02.23:505][218]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-21.02.23:505][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-21.02.23:505][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-21.02.23:505][218]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-21.02.23:505][218]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-21.02.23:505][218]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-21.02.23:507][218]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-21.02.23:537][218]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Dell AC511 USB SoundBar)
+[2025.11.05-21.02.23:537][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-21.02.23:537][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-21.02.23:537][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-21.02.23:537][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.11.05-21.02.23:537][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.11.05-21.02.23:540][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.11.05-21.02.23:540][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.11.05-21.02.23:540][218]LogInit: FAudioDevice initialized with ID 43.
+[2025.11.05-21.02.23:540][218]LogAudio: Display: Audio Device (ID: 43) registered with world 'Lvl_ThirdPerson'.
+[2025.11.05-21.02.23:540][218]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.11.05-21.02.23:544][218]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.05-21.02.23:550][218]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.05-16.02.23
+[2025.11.05-21.02.23:550][218]LogWorld: Bringing up level for play took: 0.005632
+[2025.11.05-21.02.23:552][218]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.11.05-21.02.23:557][218]PIE: Server logged in
+[2025.11.05-21.02.23:559][218]PIE: Play in editor total start time 0.127 seconds.
+[2025.11.05-21.02.25:794][374]LogTemp: Warning: Completed!
+[2025.11.05-21.02.26:701][432]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.02.31:711][793]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Charging
+[2025.11.05-21.02.33:721][941]LogBlueprintUserMessages: [BP_Enemy_C_UAID_004E01B82696489F02_1858381072] Damage
+[2025.11.05-21.02.35:576][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-21.02.35:576][ 72]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.05-21.02.35:576][ 72]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.05-21.02.35:577][ 72]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-21.02.35:580][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.02.35:580][ 72]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.05-21.02.35:587][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-21.02.35:602][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.02.35:641][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-21.02.35:641][ 72]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.11.05-21.02.35:641][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2025.11.05-21.02.35:643][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2025.11.05-21.02.35:651][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.11.05-21.02.35:689][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.11.05-21.02.40:512][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-21.02.40:560][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_EnemyCharacter] ([2] browsable assets)...
+[2025.11.05-21.02.40:560][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_EnemyCharacter]
+[2025.11.05-21.02.40:560][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_EnemyCharacter" FILE="../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyCharacter.uasset" SILENT=true
+[2025.11.05-21.02.40:577][388]LogSavePackage: Moving output files for package: /Game/AI/BP_EnemyCharacter
+[2025.11.05-21.02.40:578][388]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_EnemyCharacter250D251C4D51000031A051884043E137.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyCharacter.uasset'
+[2025.11.05-21.02.40:592][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.995 ms (total: 8.00 sec)
+[2025.11.05-21.02.40:691][388]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-21.02.40:691][388]LogContentValidation: Enabled validators:
+[2025.11.05-21.02.40:691][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-21.02.40:691][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-21.02.40:691][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-21.02.40:692][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-21.02.40:692][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-21.02.40:692][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-21.02.40:692][388]AssetCheck: /Game/AI/BP_EnemyCharacter Validating asset
+[2025.11.05-21.02.42:297][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-21.02.42:341][500]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.05-21.02.42:341][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.05-21.02.42:360][500]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.05-21.02.42:361][500]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/BP_ThirdPersonCharacter6C4221934B651F91B336E68101C5A99F.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.05-21.02.42:375][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.787 ms (total: 8.08 sec)
+[2025.11.05-21.02.42:423][500]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-21.02.42:423][500]LogContentValidation: Enabled validators:
+[2025.11.05-21.02.42:423][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-21.02.42:423][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-21.02.42:423][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-21.02.42:423][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-21.02.42:423][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-21.02.42:423][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-21.02.42:424][500]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.05-21.02.43:446][573]LogSlate: Window 'BP_Enemy' being destroyed
+[2025.11.05-21.02.43:457][573]LogSlate: Window 'BP_Enemy' being destroyed
+[2025.11.05-21.02.43:461][573]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-21.02.43:461][573]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-21.02.43:461][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.02.43:510][573]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-21.02.43:510][573]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-21.02.43:510][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.02.43:613][573]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-21.02.43:613][573]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-21.02.43:613][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-21.02.43:693][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.05-21.02.47:390][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.05-21.02.48:368][771]LogSlate: Window 'Save Content' being destroyed
+[2025.11.05-21.02.48:383][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-21.02.48:477][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.05-21.02.48:511][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.05-21.02.48:544][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.05-21.02.48:560][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HM/44BILMAQE6MPU4TDFACOMG
+[2025.11.05-21.02.48:560][771]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/44BILMAQE6MPU4TDFACOMGDCD708954FD220A76414B0B96CA5A279.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HM/44BILMAQE6MPU4TDFACOMG.uasset'
+[2025.11.05-21.02.48:575][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.916 ms (total: 8.27 sec)
+[2025.11.05-21.02.48:639][771]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.05-21.02.48:639][771]LogContentValidation: Enabled validators:
+[2025.11.05-21.02.48:639][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-21.02.48:639][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-21.02.48:639][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-21.02.48:639][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-21.02.48:639][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-21.02.48:639][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-21.02.48:639][771]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.11.05-21.02.48:664][771]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/SourceControl/UncontrolledChangelists.json
