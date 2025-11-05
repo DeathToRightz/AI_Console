@@ -45,7 +45,6 @@
 			"SideScrollingSoftPlatform.gen.cpp.obj",
 			"SideScrollingStateTreeUtility.gen.cpp.obj",
 			"SideScrollingUI.gen.cpp.obj",
-			"Temp.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"AI_Proj.cpp.obj",
 			"AI_ProjCharacter.cpp.obj",
@@ -89,6 +88,7 @@
 			"SideScrollingPlayerController.cpp.obj",
 			"SideScrollingUI.cpp.obj",
 			"Enemy.gen.cpp.obj",
+			"Temp.gen.cpp.obj",
 			"Enemy.cpp.obj",
 			"Temp.cpp.obj"
 		]
