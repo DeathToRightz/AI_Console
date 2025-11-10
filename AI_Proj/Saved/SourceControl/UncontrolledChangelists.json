@@ -8,22 +8,23 @@
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/YF/5BVSE8AW6HIKMNDWXJTVND.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/LS/0VT0K1ALINL0AKXT7VCSAB.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/BP_Enemy.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/EnemyAI.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BB_EnemyAI.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BTT_RandomPosition.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BTT_ChasePlayer.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BT_EnemyAI.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyAI.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyController.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/SW/K5HFG2FNSNSP2ZMO93W1GF.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyCharacter.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/R0/KB6G9YKUMOPE5E7LM4Z4WK.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BTT_FindRandomPatrol.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/BP_Enemy.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/EnemyAI.uasset",
 				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/BPs/BP_Bullet.uasset",
-				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HM/44BILMAQE6MPU4TDFACOMG.uasset"
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/HM/44BILMAQE6MPU4TDFACOMG.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI_C++/PatrolPoints/BP_PatrolPoint.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/EnemyAI.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BTT_RandomPosition.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/AI/BP_EnemyAI.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/SW/K5HFG2FNSNSP2ZMO93W1GF.uasset",
+				"C:/Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/R0/KB6G9YKUMOPE5E7LM4Z4WK.uasset"
 			]
 		}
 	]
