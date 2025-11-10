@@ -3897,3 +3897,19 @@ Detoured run took 907ms
 [2025.11.10-20.40.08:407][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5822.927734
 [2025.11.10-20.40.09:420][976]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.10-20.40.09:421][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5823.601562, Update Interval: 327.171844
+[2025.11.10-20.41.03:764][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.10-20.41.04:867][139]LogSlate: Window 'Save Content' being destroyed
+[2025.11.10-20.41.04:881][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.10-20.41.04:937][139]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TL/51MEQ8UTCFHWJVJIK3H4GW
+[2025.11.10-20.41.04:937][139]LogSavePackage: Moving '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/51MEQ8UTCFHWJVJIK3H4GW7066125948869A61A27CFE8E1AAF4442.tmp' to '../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TL/51MEQ8UTCFHWJVJIK3H4GW.uasset'
+[2025.11.10-20.41.04:954][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.038 ms (total: 2.23 sec)
+[2025.11.10-20.41.05:027][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.10-20.41.05:027][139]LogContentValidation: Enabled validators:
+[2025.11.10-20.41.05:027][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.10-20.41.05:027][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.10-20.41.05:027][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.10-20.41.05:027][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.10-20.41.05:027][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.10-20.41.05:027][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.10-20.41.05:028][139]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.11.10-20.41.05:059][139]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lmcordova1/Documents/GitHub/AI_Console/AI_Proj/Saved/SourceControl/UncontrolledChangelists.json
