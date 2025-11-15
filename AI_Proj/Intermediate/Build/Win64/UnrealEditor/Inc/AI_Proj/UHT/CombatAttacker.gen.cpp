@@ -232,14 +232,14 @@ DEFINE_VTABLE_PTR_HELPER_CTOR(UCombatAttacker);
 // ********** End Interface UCombatAttacker ********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_Statics
+struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCombatAttacker, UCombatAttacker::StaticClass, TEXT("UCombatAttacker"), &Z_Registration_Info_UClass_UCombatAttacker, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCombatAttacker), 4073017730U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_4224746355(TEXT("/Script/AI_Proj"),
-	Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_4224746355(TEXT("/Script/AI_Proj"),
+	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_Interfaces_CombatAttacker_h__Script_AI_Proj_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

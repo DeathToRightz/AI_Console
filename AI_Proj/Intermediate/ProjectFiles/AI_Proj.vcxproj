@@ -537,7 +537,6 @@
     <None Include="..\..\Source\AI_Proj.Target.cs"/>
     <None Include="..\..\Source\AI_ProjEditor.Target.cs"/>
     <None Include="..\..\.editorconfig"/>
-    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\shadertoolsconfig.json"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>

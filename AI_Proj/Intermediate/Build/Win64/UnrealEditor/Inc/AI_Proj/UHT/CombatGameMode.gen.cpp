@@ -106,14 +106,14 @@ ACombatGameMode::~ACombatGameMode() {}
 // ********** End Class ACombatGameMode ************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_Statics
+struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACombatGameMode, ACombatGameMode::StaticClass, TEXT("ACombatGameMode"), &Z_Registration_Info_UClass_ACombatGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACombatGameMode), 695549276U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_4216016157(TEXT("/Script/AI_Proj"),
-	Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_4216016157(TEXT("/Script/AI_Proj"),
+	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_Combat_CombatGameMode_h__Script_AI_Proj_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

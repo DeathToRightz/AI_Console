@@ -230,14 +230,14 @@ ASideScrollingPlayerController::~ASideScrollingPlayerController() {}
 // ********** End Class ASideScrollingPlayerController *********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_Statics
+struct Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingPlayerController, ASideScrollingPlayerController::StaticClass, TEXT("ASideScrollingPlayerController"), &Z_Registration_Info_UClass_ASideScrollingPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingPlayerController), 795431169U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_2026966178(TEXT("/Script/AI_Proj"),
-	Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lmcordova1_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_2026966178(TEXT("/Script/AI_Proj"),
+	Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_logan_OneDrive_Documents_GitHub_AI_Console_AI_Proj_Source_AI_Proj_Variant_SideScrolling_SideScrollingPlayerController_h__Script_AI_Proj_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
