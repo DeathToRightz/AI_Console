@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
     <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -161,6 +162,18 @@
       <Filter>Source\AI_Proj</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\AI_Proj\Enemy.h">
+      <Filter>Source\AI_Proj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_Proj\EnemyCharacter.cpp">
+      <Filter>Source\AI_Proj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_Proj\EnemyCharacter.h">
+      <Filter>Source\AI_Proj</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AI_Proj\NewActorComponent.cpp">
+      <Filter>Source\AI_Proj</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_Proj\NewActorComponent.h">
       <Filter>Source\AI_Proj</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\AI_Proj\Temp.cpp">

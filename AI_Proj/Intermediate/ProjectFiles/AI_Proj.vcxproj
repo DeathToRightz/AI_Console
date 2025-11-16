@@ -537,6 +537,7 @@
     <None Include="..\..\Source\AI_Proj.Target.cs"/>
     <None Include="..\..\Source\AI_ProjEditor.Target.cs"/>
     <None Include="..\..\.editorconfig"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\shadertoolsconfig.json"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
@@ -633,6 +634,18 @@
       <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
     </ClCompile>
     <ClInclude Include="..\..\Source\AI_Proj\Enemy.h"/>
+    <ClCompile Include="..\..\Source\AI_Proj\EnemyCharacter.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
+      <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_Proj\EnemyCharacter.h"/>
+    <ClCompile Include="..\..\Source\AI_Proj\NewActorComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>
+      <AdditionalOptions>$(ClCompile_AdditionalOptions_1)</AdditionalOptions>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AI_Proj\NewActorComponent.h"/>
     <ClCompile Include="..\..\Source\AI_Proj\Temp.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories_2)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles_2)</ForcedIncludeFiles>

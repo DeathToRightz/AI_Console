@@ -1,0 +1,90 @@
+Log started at 11/16/2025 13:32:56 (2025-11-16T18:32:56Z)
+Resolved project argument C:/Users/logan/OneDrive/Documents/GitHub/AI_Console/AI_Proj/AI_Proj.uproject to C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\AI_Proj.uproject
+No config file at C:\ProgramData\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\logan\AppData\Local\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\logan\OneDrive\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\logan\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\XmlConfigCache.bin): C:\Users\logan\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\XmlConfigCache.bin): C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\XmlConfigCache.bin): C:\Users\logan\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Log file: C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Saved\Logs\UnrealVersionSelector-2025.11.16-13.32.56.log
+
+Setting temp directory to 'C:\Users\logan\AppData\Local\Temp\UnrealBuildTool\12c8af0c'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Windows 10 SDK version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.19041.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.26100.0, Version_AutoSdk=10.0.22621.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+Resolved project argument C:/Users/logan/OneDrive/Documents/GitHub/AI_Console/AI_Proj/AI_Proj.uproject to C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\AI_Proj.uproject
+Reading configuration file from cache (C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\XmlConfigCache.bin): C:\Users\logan\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\XmlConfigCache.bin): C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\XmlConfigCache.bin): C:\Users\logan\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Skipping project file generator registration for Android due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Skipping project file generator registration for IOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Skipping project file generator registration for Linux due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Skipping project file generator registration for LinuxArm64 due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Skipping project file generator registration for Mac due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Skipping project file generator registration for TVOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+Registering project generator UnrealBuildTool.VisionOSProjectGenerator for VisionOS
+Skipping project file generator registration for VisionOS due to no valid BuildPlatform.
+
+---   SDK INFO START   ---
+---   SDK INFO END   ---
+
+
+Generating VisualStudio project files:
+Discovering modules, targets and source code for project...
+Found VisualStudio2022 installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.14.36603.0)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130 (Family=14.38.33130, FamilyRank=0, Version=14.38.33145, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.38.33130)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207 (Family=14.44.35207, FamilyRank=1, Version=14.44.35217, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.44.35112)
+Detected supported platforms: Win64
+Adding projects for all targets...
+Skipping C:\Program Files\Epic Games\UE_5.6\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping C:\Program Files\Epic Games\UE_5.6\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+Generating target Editor for C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\ProjectFiles\UE5.vcxproj
+Generating target Game for C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\ProjectFiles\UE5.vcxproj
+Compiling C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Intermediate\Build\BuildRules\AI_ProjModuleRules.dll: C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Source\AI_Proj\AI_Proj.Build.cs is newer
+C:\Users\logan\OneDrive\Documents\GitHub\AI_Console\AI_Proj\Source\AI_Proj\AI_Proj.Build.cs(21,11): error CS1003: Syntax error, ',' expected
+Adding projects for all targets took 1.75s
+Expecting to find a type to be declared in a target rules named 'AI_ProjTarget'.  This type must derive from the 'TargetRules' type defined by UnrealBuildTool.
+CompilationResultException: Expecting to find a type to be declared in a target rules named 'AI_ProjTarget'.  This type must derive from the 'TargetRules' type defined by UnrealBuildTool.
+   at UnrealBuildTool.RulesAssembly.CreateTargetRules(String TargetName, UnrealTargetPlatform Platform, UnrealTargetConfiguration Configuration, UnrealArchitectures Architectures, FileReference ProjectFile, CommandLineArguments Arguments, ILogger Logger, Boolean IsTestTarget, TargetRulesValidationOptions ValidationOptions, UnrealIntermediateEnvironment IntermediateEnvironment)
+   at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, List`1 AllTargetFiles, String[] Arguments, List`1 EngineProjects, List`1 GameProjects, Dictionary`2 ProjectFileToUProjectFile, Dictionary`2 ProgramProjects, Dictionary`2 RulesAssemblies, ILogger Logger)
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, ILogger Logger)
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, Boolean bCacheDataForEditor, ILogger Logger)
+   at UnrealBuildTool.GenerateProjectFilesMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger)
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray)
+WriteFileIfChanged() wrote 0 changed files of 4 requested writes.
+
+Timeline:
+[  0.001]  +0.566 Main
+   0.144          [  0.142]  +0.237 Apply XmlConfig
+   0.470          [  0.468]  +0.097 RegisterPlatforms
+[  0.568]  +2.508 GenerateProjectFilesMode
+   0.568          [  0.000]  +0.673 <unknown>
+   1.242          [  0.673]  +1.834 Generating VisualStudio project files
+   1.275             0.706          [  0.032]  +0.045 DiscoverTargets
+   1.329             0.760          [  0.086]  +1.745 Adding projects for all targets
+[  3.093]  +0.001 TelemetryService.FlushEvents
+[  3.096]
+
+Result: Failed (RulesError)
+Total execution time: 3.10 seconds

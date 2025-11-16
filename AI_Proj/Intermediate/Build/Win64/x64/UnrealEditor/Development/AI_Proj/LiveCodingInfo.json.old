@@ -2,7 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.AI_Proj.1.cpp.obj": [
-			"AI_Proj.init.gen.cpp.obj",
 			"AI_ProjCharacter.gen.cpp.obj",
 			"AI_ProjGameMode.gen.cpp.obj",
 			"AI_ProjPlayerController.gen.cpp.obj",
@@ -25,11 +24,12 @@
 			"CombatLavaFloor.gen.cpp.obj",
 			"CombatLifeBar.gen.cpp.obj",
 			"CombatPlayerController.gen.cpp.obj",
-			"CombatStateTreeUtility.gen.cpp.obj"
+			"CombatStateTreeUtility.gen.cpp.obj",
+			"AI_Proj.init.gen.cpp.obj"
 		],
 		"Module.AI_Proj.2.cpp.obj": [
-			"Enemy.gen.cpp.obj",
 			"EnvQueryContext_Player.gen.cpp.obj",
+			"NewActorComponent.gen.cpp.obj",
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
 			"PlatformingPlayerController.gen.cpp.obj",
@@ -52,7 +52,6 @@
 			"AI_ProjCharacter.cpp.obj",
 			"AI_ProjGameMode.cpp.obj",
 			"AI_ProjPlayerController.cpp.obj",
-			"Enemy.cpp.obj",
 			"Temp.cpp.obj",
 			"CombatAIController.cpp.obj",
 			"CombatEnemy.cpp.obj",
@@ -88,6 +87,13 @@
 			"SideScrollingInteractable.cpp.obj",
 			"SideScrollingCameraManager.cpp.obj",
 			"SideScrollingCharacter.cpp.obj",
+			"Enemy.gen.cpp.obj",
+			"EnemyCharacter.gen.cpp.obj",
+			"Enemy.cpp.obj",
+			"EnemyCharacter.cpp.obj",
+			"NewActorComponent.cpp.obj"
+		],
+		"Module.AI_Proj.3.cpp.obj": [
 			"SideScrollingGameMode.cpp.obj",
 			"SideScrollingPlayerController.cpp.obj",
 			"SideScrollingUI.cpp.obj"

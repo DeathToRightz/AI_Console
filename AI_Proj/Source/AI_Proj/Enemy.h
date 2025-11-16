@@ -4,11 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "AIController.h"
-#include "Enemy.generated.h"
+#include "NavigationSystem.h"
+#include "Navigation/PathFollowingComponent.h"
 
-/**
- * 
- */
+#include "Enemy.generated.h"
+struct FAIRequestID;
+struct FPathFollowingResult;
+
 UCLASS()
 class AI_PROJ_API AEnemy : public AAIController
 {
@@ -20,20 +22,21 @@ class AI_PROJ_API AEnemy : public AAIController
 public:
 	// Sets default values for this character's properties
 	AEnemy();
+	FTimerHandle MyTimerHandle;
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-	void OnAIMoveCompleted(struct FAIRequestID RequestID, const struct FPathFollowingResult& Result);
+	virtual void OnPossess(APawn* InPawn) override;
+	virtual void Tick(float DeltaTime) override;
 
 	void Move();
 
-public:
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Patrol Locations")
-	AActor* PatrolLocation;
+	
+	void OnAIMoveCompleted(FAIRequestID RequestID, const FPathFollowingResult& Result);
+
+	
+private:
+	FVector Origin;
+	float SearchRange = 1000.f;
+	UNavigationSystemV1* NavSystem;
 	
 };
